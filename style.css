@@ -1,0 +1,53 @@
+.container {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+}
+
+img{
+   
+    width: 128px;
+    height: 128px;
+    display: block;
+    text-align: center;
+    margin-left: 25%;
+    margin-top:10px;
+    margin-bottom: 20px;
+}
+
+thead{
+    width: 400px;
+}
+
+th {
+    width: 90px;
+    height: 20px;
+    background-color: gainsboro;
+    
+}
+
+.delete {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(241, 93, 93);
+    margin-left: 30px;
+    cursor: pointer;
+}
+input {
+    margin-bottom: 25px;
+    margin-right: 10px;
+}
+
+.cadastro {
+    background-color: rgb(183, 235, 217);
+    border: none;
+    height: 25px;
+    border-end-end-radius: 25%;
+    cursor: pointer;
+}
+
